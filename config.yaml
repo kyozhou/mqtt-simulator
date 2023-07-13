@@ -1,0 +1,7 @@
+mqtt:
+  address: 10.1.1.210:1883
+  client_id: emqx_test_client
+  user: user1
+  pass: pass1
+  sub_topic: testtopic/# # monitor on console
+  pub_topic: thing_up/1o8h9/2lqklw79j9
